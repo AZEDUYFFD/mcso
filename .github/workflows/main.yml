@@ -10,7 +10,7 @@ on:
       runtime:
         description: "Session runtime in minutes"
         required: true
-        default: "360"
+        default: "1440"
       
 jobs:
   setup-vm:
